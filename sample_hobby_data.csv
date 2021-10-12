@@ -1,0 +1,2789 @@
+variable,group,value
+dancing,2019-01,32
+dancing,2019-02,29
+dancing,2019-03,29
+dancing,2019-04,26
+dancing,2019-05,28
+dancing,2019-06,28
+dancing,2019-07,27
+dancing,2019-08,33
+dancing,2019-09,39
+dancing,2019-10,39
+dancing,2019-11,40
+dancing,2019-12,28
+dancing,2020-01,28
+dancing,2020-02,30
+dancing,2020-03,24
+dancing,2020-04,26
+dancing,2020-05,23
+dancing,2020-06,23
+dancing,2020-07,24
+dancing,2020-08,25
+dancing,2020-09,46
+dancing,2020-10,37
+dancing,2020-11,36
+dancing,2020-12,25
+dancing,2021-01,23
+dancing,2021-02,22
+dancing,2021-03,23
+dancing,2021-04,24
+dancing,2021-05,23
+dancing,2021-06,22
+dancing,2021-07,22
+dancing,2021-08,23
+dancing,2021-09,36
+dancing,2021-10,33
+breadmaking,2019-01,11
+breadmaking,2019-02,2
+breadmaking,2019-03,6
+breadmaking,2019-04,0
+breadmaking,2019-05,4
+breadmaking,2019-06,2
+breadmaking,2019-07,0
+breadmaking,2019-08,7
+breadmaking,2019-09,0
+breadmaking,2019-10,0
+breadmaking,2019-11,2
+breadmaking,2019-12,6
+breadmaking,2020-01,10
+breadmaking,2020-02,10
+breadmaking,2020-03,7
+breadmaking,2020-04,14
+breadmaking,2020-05,11
+breadmaking,2020-06,9
+breadmaking,2020-07,2
+breadmaking,2020-08,2
+breadmaking,2020-09,6
+breadmaking,2020-10,4
+breadmaking,2020-11,4
+breadmaking,2020-12,21
+breadmaking,2021-01,8
+breadmaking,2021-02,0
+breadmaking,2021-03,0
+breadmaking,2021-04,2
+breadmaking,2021-05,7
+breadmaking,2021-06,2
+breadmaking,2021-07,6
+breadmaking,2021-08,0
+breadmaking,2021-09,2
+breadmaking,2021-10,0
+hobby tunneling,2019-01,0
+hobby tunneling,2019-02,0
+hobby tunneling,2019-03,0
+hobby tunneling,2019-04,0
+hobby tunneling,2019-05,0
+hobby tunneling,2019-06,0
+hobby tunneling,2019-07,0
+hobby tunneling,2019-08,0
+hobby tunneling,2019-09,0
+hobby tunneling,2019-10,0
+hobby tunneling,2019-11,0
+hobby tunneling,2019-12,0
+hobby tunneling,2020-01,0
+hobby tunneling,2020-02,0
+hobby tunneling,2020-03,0
+hobby tunneling,2020-04,0
+hobby tunneling,2020-05,0
+hobby tunneling,2020-06,0
+hobby tunneling,2020-07,0
+hobby tunneling,2020-08,0
+hobby tunneling,2020-09,0
+hobby tunneling,2020-10,0
+hobby tunneling,2020-11,0
+hobby tunneling,2020-12,0
+hobby tunneling,2021-01,0
+hobby tunneling,2021-02,0
+hobby tunneling,2021-03,14
+hobby tunneling,2021-04,0
+hobby tunneling,2021-05,0
+hobby tunneling,2021-06,0
+hobby tunneling,2021-07,0
+hobby tunneling,2021-08,0
+hobby tunneling,2021-09,0
+hobby tunneling,2021-10,0
+rugby,2019-01,17
+rugby,2019-02,24
+rugby,2019-03,24
+rugby,2019-04,19
+rugby,2019-05,17
+rugby,2019-06,17
+rugby,2019-07,29
+rugby,2019-08,19
+rugby,2019-09,52
+rugby,2019-10,61
+rugby,2019-11,29
+rugby,2019-12,16
+rugby,2020-01,17
+rugby,2020-02,26
+rugby,2020-03,17
+rugby,2020-04,10
+rugby,2020-05,10
+rugby,2020-06,12
+rugby,2020-07,12
+rugby,2020-08,12
+rugby,2020-09,12
+rugby,2020-10,14
+rugby,2020-11,13
+rugby,2020-12,12
+rugby,2021-01,11
+rugby,2021-02,17
+rugby,2021-03,17
+rugby,2021-04,15
+rugby,2021-05,16
+rugby,2021-06,15
+rugby,2021-07,32
+rugby,2021-08,19
+rugby,2021-09,18
+rugby,2021-10,18
+walking,2019-01,30
+walking,2019-02,36
+walking,2019-03,43
+walking,2019-04,35
+walking,2019-05,30
+walking,2019-06,31
+walking,2019-07,32
+walking,2019-08,30
+walking,2019-09,35
+walking,2019-10,38
+walking,2019-11,31
+walking,2019-12,26
+walking,2020-01,29
+walking,2020-02,32
+walking,2020-03,37
+walking,2020-04,36
+walking,2020-05,31
+walking,2020-06,31
+walking,2020-07,30
+walking,2020-08,29
+walking,2020-09,32
+walking,2020-10,37
+walking,2020-11,28
+walking,2020-12,27
+walking,2021-01,28
+walking,2021-02,32
+walking,2021-03,42
+walking,2021-04,36
+walking,2021-05,33
+walking,2021-06,32
+walking,2021-07,33
+walking,2021-08,40
+walking,2021-09,35
+walking,2021-10,33
+metalworking,2019-01,15
+metalworking,2019-02,14
+metalworking,2019-03,12
+metalworking,2019-04,12
+metalworking,2019-05,14
+metalworking,2019-06,12
+metalworking,2019-07,10
+metalworking,2019-08,9
+metalworking,2019-09,15
+metalworking,2019-10,13
+metalworking,2019-11,8
+metalworking,2019-12,12
+metalworking,2020-01,18
+metalworking,2020-02,18
+metalworking,2020-03,13
+metalworking,2020-04,16
+metalworking,2020-05,14
+metalworking,2020-06,12
+metalworking,2020-07,14
+metalworking,2020-08,10
+metalworking,2020-09,12
+metalworking,2020-10,14
+metalworking,2020-11,11
+metalworking,2020-12,9
+metalworking,2021-01,15
+metalworking,2021-02,10
+metalworking,2021-03,12
+metalworking,2021-04,10
+metalworking,2021-05,11
+metalworking,2021-06,13
+metalworking,2021-07,7
+metalworking,2021-08,14
+metalworking,2021-09,8
+metalworking,2021-10,13
+taxidermy,2019-01,60
+taxidermy,2019-02,50
+taxidermy,2019-03,48
+taxidermy,2019-04,49
+taxidermy,2019-05,44
+taxidermy,2019-06,37
+taxidermy,2019-07,44
+taxidermy,2019-08,46
+taxidermy,2019-09,51
+taxidermy,2019-10,62
+taxidermy,2019-11,97
+taxidermy,2019-12,75
+taxidermy,2020-01,66
+taxidermy,2020-02,51
+taxidermy,2020-03,38
+taxidermy,2020-04,49
+taxidermy,2020-05,47
+taxidermy,2020-06,41
+taxidermy,2020-07,44
+taxidermy,2020-08,46
+taxidermy,2020-09,50
+taxidermy,2020-10,66
+taxidermy,2020-11,100
+taxidermy,2020-12,87
+taxidermy,2021-01,66
+taxidermy,2021-02,59
+taxidermy,2021-03,48
+taxidermy,2021-04,48
+taxidermy,2021-05,44
+taxidermy,2021-06,47
+taxidermy,2021-07,50
+taxidermy,2021-08,52
+taxidermy,2021-09,54
+taxidermy,2021-10,57
+insect collecting,2019-01,0
+insect collecting,2019-02,4
+insect collecting,2019-03,4
+insect collecting,2019-04,4
+insect collecting,2019-05,13
+insect collecting,2019-06,0
+insect collecting,2019-07,9
+insect collecting,2019-08,9
+insect collecting,2019-09,8
+insect collecting,2019-10,4
+insect collecting,2019-11,0
+insect collecting,2019-12,0
+insect collecting,2020-01,11
+insect collecting,2020-02,8
+insect collecting,2020-03,0
+insect collecting,2020-04,7
+insect collecting,2020-05,17
+insect collecting,2020-06,4
+insect collecting,2020-07,4
+insect collecting,2020-08,15
+insect collecting,2020-09,4
+insect collecting,2020-10,8
+insect collecting,2020-11,0
+insect collecting,2020-12,0
+insect collecting,2021-01,8
+insect collecting,2021-02,4
+insect collecting,2021-03,0
+insect collecting,2021-04,13
+insect collecting,2021-05,0
+insect collecting,2021-06,4
+insect collecting,2021-07,4
+insect collecting,2021-08,0
+insect collecting,2021-09,0
+insect collecting,2021-10,15
+book discussion clubs,2019-01,2
+book discussion clubs,2019-02,0
+book discussion clubs,2019-03,0
+book discussion clubs,2019-04,4
+book discussion clubs,2019-05,0
+book discussion clubs,2019-06,2
+book discussion clubs,2019-07,0
+book discussion clubs,2019-08,0
+book discussion clubs,2019-09,6
+book discussion clubs,2019-10,2
+book discussion clubs,2019-11,6
+book discussion clubs,2019-12,0
+book discussion clubs,2020-01,2
+book discussion clubs,2020-02,2
+book discussion clubs,2020-03,2
+book discussion clubs,2020-04,2
+book discussion clubs,2020-05,2
+book discussion clubs,2020-06,5
+book discussion clubs,2020-07,2
+book discussion clubs,2020-08,4
+book discussion clubs,2020-09,0
+book discussion clubs,2020-10,6
+book discussion clubs,2020-11,0
+book discussion clubs,2020-12,0
+book discussion clubs,2021-01,0
+book discussion clubs,2021-02,2
+book discussion clubs,2021-03,2
+book discussion clubs,2021-04,2
+book discussion clubs,2021-05,0
+book discussion clubs,2021-06,0
+book discussion clubs,2021-07,0
+book discussion clubs,2021-08,6
+book discussion clubs,2021-09,0
+book discussion clubs,2021-10,7
+planning,2019-01,42
+planning,2019-02,42
+planning,2019-03,41
+planning,2019-04,41
+planning,2019-05,40
+planning,2019-06,38
+planning,2019-07,37
+planning,2019-08,39
+planning,2019-09,43
+planning,2019-10,42
+planning,2019-11,37
+planning,2019-12,35
+planning,2020-01,45
+planning,2020-02,46
+planning,2020-03,37
+planning,2020-04,36
+planning,2020-05,35
+planning,2020-06,37
+planning,2020-07,38
+planning,2020-08,36
+planning,2020-09,43
+planning,2020-10,40
+planning,2020-11,34
+planning,2020-12,31
+planning,2021-01,35
+planning,2021-02,38
+planning,2021-03,37
+planning,2021-04,40
+planning,2021-05,37
+planning,2021-06,34
+planning,2021-07,33
+planning,2021-08,34
+planning,2021-09,39
+planning,2021-10,38
+marching band,2019-01,15
+marching band,2019-02,12
+marching band,2019-03,13
+marching band,2019-04,14
+marching band,2019-05,17
+marching band,2019-06,13
+marching band,2019-07,17
+marching band,2019-08,28
+marching band,2019-09,41
+marching band,2019-10,47
+marching band,2019-11,29
+marching band,2019-12,14
+marching band,2020-01,14
+marching band,2020-02,12
+marching band,2020-03,10
+marching band,2020-04,10
+marching band,2020-05,12
+marching band,2020-06,10
+marching band,2020-07,13
+marching band,2020-08,12
+marching band,2020-09,13
+marching band,2020-10,11
+marching band,2020-11,10
+marching band,2020-12,7
+marching band,2021-01,8
+marching band,2021-02,8
+marching band,2021-03,7
+marching band,2021-04,8
+marching band,2021-05,9
+marching band,2021-06,8
+marching band,2021-07,12
+marching band,2021-08,17
+marching band,2021-09,26
+marching band,2021-10,33
+brazilian jiu-jitsu,2019-01,8
+brazilian jiu-jitsu,2019-02,14
+brazilian jiu-jitsu,2019-03,9
+brazilian jiu-jitsu,2019-04,12
+brazilian jiu-jitsu,2019-05,9
+brazilian jiu-jitsu,2019-06,9
+brazilian jiu-jitsu,2019-07,16
+brazilian jiu-jitsu,2019-08,17
+brazilian jiu-jitsu,2019-09,15
+brazilian jiu-jitsu,2019-10,9
+brazilian jiu-jitsu,2019-11,11
+brazilian jiu-jitsu,2019-12,9
+brazilian jiu-jitsu,2020-01,11
+brazilian jiu-jitsu,2020-02,12
+brazilian jiu-jitsu,2020-03,10
+brazilian jiu-jitsu,2020-04,5
+brazilian jiu-jitsu,2020-05,6
+brazilian jiu-jitsu,2020-06,10
+brazilian jiu-jitsu,2020-07,11
+brazilian jiu-jitsu,2020-08,17
+brazilian jiu-jitsu,2020-09,17
+brazilian jiu-jitsu,2020-10,9
+brazilian jiu-jitsu,2020-11,11
+brazilian jiu-jitsu,2020-12,7
+brazilian jiu-jitsu,2021-01,13
+brazilian jiu-jitsu,2021-02,5
+brazilian jiu-jitsu,2021-03,14
+brazilian jiu-jitsu,2021-04,10
+brazilian jiu-jitsu,2021-05,8
+brazilian jiu-jitsu,2021-06,9
+brazilian jiu-jitsu,2021-07,19
+brazilian jiu-jitsu,2021-08,14
+brazilian jiu-jitsu,2021-09,10
+brazilian jiu-jitsu,2021-10,3
+horseback riding,2019-01,29
+horseback riding,2019-02,30
+horseback riding,2019-03,42
+horseback riding,2019-04,45
+horseback riding,2019-05,46
+horseback riding,2019-06,55
+horseback riding,2019-07,62
+horseback riding,2019-08,54
+horseback riding,2019-09,42
+horseback riding,2019-10,34
+horseback riding,2019-11,28
+horseback riding,2019-12,24
+horseback riding,2020-01,29
+horseback riding,2020-02,30
+horseback riding,2020-03,21
+horseback riding,2020-04,14
+horseback riding,2020-05,29
+horseback riding,2020-06,58
+horseback riding,2020-07,64
+horseback riding,2020-08,64
+horseback riding,2020-09,56
+horseback riding,2020-10,50
+horseback riding,2020-11,34
+horseback riding,2020-12,31
+horseback riding,2021-01,34
+horseback riding,2021-02,35
+horseback riding,2021-03,54
+horseback riding,2021-04,57
+horseback riding,2021-05,60
+horseback riding,2021-06,67
+horseback riding,2021-07,71
+horseback riding,2021-08,56
+horseback riding,2021-09,45
+horseback riding,2021-10,49
+woodworking,2019-01,24
+woodworking,2019-02,21
+woodworking,2019-03,20
+woodworking,2019-04,18
+woodworking,2019-05,17
+woodworking,2019-06,17
+woodworking,2019-07,17
+woodworking,2019-08,18
+woodworking,2019-09,17
+woodworking,2019-10,17
+woodworking,2019-11,19
+woodworking,2019-12,24
+woodworking,2020-01,24
+woodworking,2020-02,21
+woodworking,2020-03,19
+woodworking,2020-04,24
+woodworking,2020-05,23
+woodworking,2020-06,21
+woodworking,2020-07,20
+woodworking,2020-08,20
+woodworking,2020-09,20
+woodworking,2020-10,21
+woodworking,2020-11,24
+woodworking,2020-12,29
+woodworking,2021-01,25
+woodworking,2021-02,22
+woodworking,2021-03,21
+woodworking,2021-04,19
+woodworking,2021-05,19
+woodworking,2021-06,17
+woodworking,2021-07,17
+woodworking,2021-08,18
+woodworking,2021-09,19
+woodworking,2021-10,17
+winemaking,2019-01,12
+winemaking,2019-02,8
+winemaking,2019-03,6
+winemaking,2019-04,10
+winemaking,2019-05,9
+winemaking,2019-06,9
+winemaking,2019-07,11
+winemaking,2019-08,12
+winemaking,2019-09,16
+winemaking,2019-10,13
+winemaking,2019-11,10
+winemaking,2019-12,7
+winemaking,2020-01,9
+winemaking,2020-02,9
+winemaking,2020-03,8
+winemaking,2020-04,9
+winemaking,2020-05,9
+winemaking,2020-06,10
+winemaking,2020-07,12
+winemaking,2020-08,12
+winemaking,2020-09,15
+winemaking,2020-10,11
+winemaking,2020-11,10
+winemaking,2020-12,12
+winemaking,2021-01,12
+winemaking,2021-02,7
+winemaking,2021-03,9
+winemaking,2021-04,6
+winemaking,2021-05,11
+winemaking,2021-06,15
+winemaking,2021-07,9
+winemaking,2021-08,11
+winemaking,2021-09,12
+winemaking,2021-10,9
+survivalism,2019-01,1
+survivalism,2019-02,1
+survivalism,2019-03,0
+survivalism,2019-04,1
+survivalism,2019-05,2
+survivalism,2019-06,2
+survivalism,2019-07,2
+survivalism,2019-08,0
+survivalism,2019-09,0
+survivalism,2019-10,2
+survivalism,2019-11,1
+survivalism,2019-12,1
+survivalism,2020-01,1
+survivalism,2020-02,0
+survivalism,2020-03,1
+survivalism,2020-04,2
+survivalism,2020-05,2
+survivalism,2020-06,2
+survivalism,2020-07,1
+survivalism,2020-08,1
+survivalism,2020-09,2
+survivalism,2020-10,0
+survivalism,2020-11,2
+survivalism,2020-12,2
+survivalism,2021-01,2
+survivalism,2021-02,1
+survivalism,2021-03,2
+survivalism,2021-04,1
+survivalism,2021-05,0
+survivalism,2021-06,0
+survivalism,2021-07,1
+survivalism,2021-08,0
+survivalism,2021-09,0
+survivalism,2021-10,1
+do it yourself,2019-01,11
+do it yourself,2019-02,12
+do it yourself,2019-03,12
+do it yourself,2019-04,12
+do it yourself,2019-05,13
+do it yourself,2019-06,13
+do it yourself,2019-07,12
+do it yourself,2019-08,11
+do it yourself,2019-09,11
+do it yourself,2019-10,13
+do it yourself,2019-11,12
+do it yourself,2019-12,10
+do it yourself,2020-01,11
+do it yourself,2020-02,11
+do it yourself,2020-03,12
+do it yourself,2020-04,15
+do it yourself,2020-05,15
+do it yourself,2020-06,13
+do it yourself,2020-07,12
+do it yourself,2020-08,12
+do it yourself,2020-09,11
+do it yourself,2020-10,12
+do it yourself,2020-11,10
+do it yourself,2020-12,10
+do it yourself,2021-01,10
+do it yourself,2021-02,11
+do it yourself,2021-03,12
+do it yourself,2021-04,11
+do it yourself,2021-05,12
+do it yourself,2021-06,10
+do it yourself,2021-07,10
+do it yourself,2021-08,10
+do it yourself,2021-09,10
+do it yourself,2021-10,12
+binge-watching,2019-01,19
+binge-watching,2019-02,30
+binge-watching,2019-03,19
+binge-watching,2019-04,0
+binge-watching,2019-05,10
+binge-watching,2019-06,30
+binge-watching,2019-07,0
+binge-watching,2019-08,10
+binge-watching,2019-09,28
+binge-watching,2019-10,18
+binge-watching,2019-11,9
+binge-watching,2019-12,9
+binge-watching,2020-01,43
+binge-watching,2020-02,0
+binge-watching,2020-03,31
+binge-watching,2020-04,100
+binge-watching,2020-05,31
+binge-watching,2020-06,16
+binge-watching,2020-07,25
+binge-watching,2020-08,58
+binge-watching,2020-09,16
+binge-watching,2020-10,36
+binge-watching,2020-11,36
+binge-watching,2020-12,55
+binge-watching,2021-01,71
+binge-watching,2021-02,20
+binge-watching,2021-03,27
+binge-watching,2021-04,57
+binge-watching,2021-05,47
+binge-watching,2021-06,19
+binge-watching,2021-07,19
+binge-watching,2021-08,38
+binge-watching,2021-09,10
+binge-watching,2021-10,0
+jewelry making,2019-01,36
+jewelry making,2019-02,33
+jewelry making,2019-03,30
+jewelry making,2019-04,24
+jewelry making,2019-05,31
+jewelry making,2019-06,37
+jewelry making,2019-07,34
+jewelry making,2019-08,34
+jewelry making,2019-09,36
+jewelry making,2019-10,32
+jewelry making,2019-11,35
+jewelry making,2019-12,42
+jewelry making,2020-01,38
+jewelry making,2020-02,36
+jewelry making,2020-03,29
+jewelry making,2020-04,34
+jewelry making,2020-05,36
+jewelry making,2020-06,33
+jewelry making,2020-07,44
+jewelry making,2020-08,42
+jewelry making,2020-09,30
+jewelry making,2020-10,37
+jewelry making,2020-11,38
+jewelry making,2020-12,43
+jewelry making,2021-01,37
+jewelry making,2021-02,40
+jewelry making,2021-03,34
+jewelry making,2021-04,39
+jewelry making,2021-05,33
+jewelry making,2021-06,36
+jewelry making,2021-07,39
+jewelry making,2021-08,40
+jewelry making,2021-09,33
+jewelry making,2021-10,41
+livestreaming,2019-01,54
+livestreaming,2019-02,22
+livestreaming,2019-03,31
+livestreaming,2019-04,42
+livestreaming,2019-05,26
+livestreaming,2019-06,39
+livestreaming,2019-07,31
+livestreaming,2019-08,38
+livestreaming,2019-09,26
+livestreaming,2019-10,28
+livestreaming,2019-11,32
+livestreaming,2019-12,26
+livestreaming,2020-01,34
+livestreaming,2020-02,22
+livestreaming,2020-03,92
+livestreaming,2020-04,100
+livestreaming,2020-05,91
+livestreaming,2020-06,64
+livestreaming,2020-07,63
+livestreaming,2020-08,62
+livestreaming,2020-09,52
+livestreaming,2020-10,47
+livestreaming,2020-11,45
+livestreaming,2020-12,47
+livestreaming,2021-01,34
+livestreaming,2021-02,43
+livestreaming,2021-03,47
+livestreaming,2021-04,52
+livestreaming,2021-05,50
+livestreaming,2021-06,32
+livestreaming,2021-07,44
+livestreaming,2021-08,38
+livestreaming,2021-09,42
+livestreaming,2021-10,22
+lace making,2019-01,19
+lace making,2019-02,19
+lace making,2019-03,14
+lace making,2019-04,19
+lace making,2019-05,20
+lace making,2019-06,16
+lace making,2019-07,18
+lace making,2019-08,17
+lace making,2019-09,15
+lace making,2019-10,10
+lace making,2019-11,13
+lace making,2019-12,15
+lace making,2020-01,21
+lace making,2020-02,30
+lace making,2020-03,13
+lace making,2020-04,20
+lace making,2020-05,17
+lace making,2020-06,14
+lace making,2020-07,20
+lace making,2020-08,13
+lace making,2020-09,23
+lace making,2020-10,15
+lace making,2020-11,15
+lace making,2020-12,15
+lace making,2021-01,19
+lace making,2021-02,21
+lace making,2021-03,22
+lace making,2021-04,14
+lace making,2021-05,8
+lace making,2021-06,5
+lace making,2021-07,14
+lace making,2021-08,15
+lace making,2021-09,15
+lace making,2021-10,0
+ice skating,2019-01,50
+ice skating,2019-02,28
+ice skating,2019-03,17
+ice skating,2019-04,9
+ice skating,2019-05,7
+ice skating,2019-06,8
+ice skating,2019-07,9
+ice skating,2019-08,8
+ice skating,2019-09,8
+ice skating,2019-10,12
+ice skating,2019-11,42
+ice skating,2019-12,93
+ice skating,2020-01,50
+ice skating,2020-02,26
+ice skating,2020-03,9
+ice skating,2020-04,3
+ice skating,2020-05,3
+ice skating,2020-06,5
+ice skating,2020-07,6
+ice skating,2020-08,5
+ice skating,2020-09,7
+ice skating,2020-10,9
+ice skating,2020-11,23
+ice skating,2020-12,64
+ice skating,2021-01,42
+ice skating,2021-02,26
+ice skating,2021-03,12
+ice skating,2021-04,8
+ice skating,2021-05,7
+ice skating,2021-06,8
+ice skating,2021-07,9
+ice skating,2021-08,8
+ice skating,2021-09,8
+ice skating,2021-10,10
+squash,2019-01,58
+squash,2019-02,46
+squash,2019-03,41
+squash,2019-04,36
+squash,2019-05,36
+squash,2019-06,43
+squash,2019-07,49
+squash,2019-08,47
+squash,2019-09,58
+squash,2019-10,84
+squash,2019-11,87
+squash,2019-12,48
+squash,2020-01,55
+squash,2020-02,43
+squash,2020-03,43
+squash,2020-04,52
+squash,2020-05,55
+squash,2020-06,63
+squash,2020-07,76
+squash,2020-08,66
+squash,2020-09,73
+squash,2020-10,100
+squash,2020-11,86
+squash,2020-12,53
+squash,2021-01,53
+squash,2021-02,48
+squash,2021-03,40
+squash,2021-04,36
+squash,2021-05,38
+squash,2021-06,43
+squash,2021-07,52
+squash,2021-08,50
+squash,2021-09,55
+squash,2021-10,71
+listening to music,2019-01,69
+listening to music,2019-02,84
+listening to music,2019-03,70
+listening to music,2019-04,75
+listening to music,2019-05,77
+listening to music,2019-06,53
+listening to music,2019-07,58
+listening to music,2019-08,56
+listening to music,2019-09,72
+listening to music,2019-10,70
+listening to music,2019-11,74
+listening to music,2019-12,65
+listening to music,2020-01,68
+listening to music,2020-02,76
+listening to music,2020-03,56
+listening to music,2020-04,79
+listening to music,2020-05,63
+listening to music,2020-06,57
+listening to music,2020-07,52
+listening to music,2020-08,82
+listening to music,2020-09,100
+listening to music,2020-10,81
+listening to music,2020-11,64
+listening to music,2020-12,59
+listening to music,2021-01,61
+listening to music,2021-02,73
+listening to music,2021-03,70
+listening to music,2021-04,62
+listening to music,2021-05,56
+listening to music,2021-06,58
+listening to music,2021-07,52
+listening to music,2021-08,56
+listening to music,2021-09,72
+listening to music,2021-10,64
+model united nations,2019-01,5
+model united nations,2019-02,5
+model united nations,2019-03,6
+model united nations,2019-04,8
+model united nations,2019-05,4
+model united nations,2019-06,2
+model united nations,2019-07,2
+model united nations,2019-08,6
+model united nations,2019-09,5
+model united nations,2019-10,7
+model united nations,2019-11,8
+model united nations,2019-12,6
+model united nations,2020-01,7
+model united nations,2020-02,5
+model united nations,2020-03,5
+model united nations,2020-04,4
+model united nations,2020-05,4
+model united nations,2020-06,2
+model united nations,2020-07,3
+model united nations,2020-08,3
+model united nations,2020-09,3
+model united nations,2020-10,3
+model united nations,2020-11,4
+model united nations,2020-12,3
+model united nations,2021-01,2
+model united nations,2021-02,5
+model united nations,2021-03,3
+model united nations,2021-04,4
+model united nations,2021-05,4
+model united nations,2021-06,2
+model united nations,2021-07,2
+model united nations,2021-08,2
+model united nations,2021-09,6
+model united nations,2021-10,2
+bell ringing,2019-01,54
+bell ringing,2019-02,29
+bell ringing,2019-03,41
+bell ringing,2019-04,44
+bell ringing,2019-05,54
+bell ringing,2019-06,43
+bell ringing,2019-07,56
+bell ringing,2019-08,38
+bell ringing,2019-09,51
+bell ringing,2019-10,52
+bell ringing,2019-11,67
+bell ringing,2019-12,83
+bell ringing,2020-01,49
+bell ringing,2020-02,50
+bell ringing,2020-03,47
+bell ringing,2020-04,62
+bell ringing,2020-05,48
+bell ringing,2020-06,42
+bell ringing,2020-07,43
+bell ringing,2020-08,40
+bell ringing,2020-09,43
+bell ringing,2020-10,51
+bell ringing,2020-11,53
+bell ringing,2020-12,80
+bell ringing,2021-01,48
+bell ringing,2021-02,35
+bell ringing,2021-03,41
+bell ringing,2021-04,30
+bell ringing,2021-05,39
+bell ringing,2021-06,42
+bell ringing,2021-07,38
+bell ringing,2021-08,33
+bell ringing,2021-09,37
+bell ringing,2021-10,76
+lock picking,2019-01,14
+lock picking,2019-02,19
+lock picking,2019-03,17
+lock picking,2019-04,14
+lock picking,2019-05,18
+lock picking,2019-06,14
+lock picking,2019-07,18
+lock picking,2019-08,14
+lock picking,2019-09,15
+lock picking,2019-10,18
+lock picking,2019-11,24
+lock picking,2019-12,18
+lock picking,2020-01,14
+lock picking,2020-02,14
+lock picking,2020-03,16
+lock picking,2020-04,19
+lock picking,2020-05,19
+lock picking,2020-06,21
+lock picking,2020-07,16
+lock picking,2020-08,21
+lock picking,2020-09,16
+lock picking,2020-10,18
+lock picking,2020-11,16
+lock picking,2020-12,22
+lock picking,2021-01,17
+lock picking,2021-02,14
+lock picking,2021-03,11
+lock picking,2021-04,14
+lock picking,2021-05,17
+lock picking,2021-06,19
+lock picking,2021-07,21
+lock picking,2021-08,16
+lock picking,2021-09,22
+lock picking,2021-10,21
+cross-stitch,2019-01,2
+cross-stitch,2019-02,6
+cross-stitch,2019-03,3
+cross-stitch,2019-04,3
+cross-stitch,2019-05,4
+cross-stitch,2019-06,4
+cross-stitch,2019-07,2
+cross-stitch,2019-08,1
+cross-stitch,2019-09,4
+cross-stitch,2019-10,5
+cross-stitch,2019-11,5
+cross-stitch,2019-12,6
+cross-stitch,2020-01,5
+cross-stitch,2020-02,3
+cross-stitch,2020-03,4
+cross-stitch,2020-04,6
+cross-stitch,2020-05,5
+cross-stitch,2020-06,7
+cross-stitch,2020-07,6
+cross-stitch,2020-08,5
+cross-stitch,2020-09,4
+cross-stitch,2020-10,4
+cross-stitch,2020-11,3
+cross-stitch,2020-12,5
+cross-stitch,2021-01,3
+cross-stitch,2021-02,1
+cross-stitch,2021-03,4
+cross-stitch,2021-04,5
+cross-stitch,2021-05,3
+cross-stitch,2021-06,2
+cross-stitch,2021-07,2
+cross-stitch,2021-08,2
+cross-stitch,2021-09,4
+cross-stitch,2021-10,0
+polo,2019-01,47
+polo,2019-02,46
+polo,2019-03,48
+polo,2019-04,49
+polo,2019-05,53
+polo,2019-06,57
+polo,2019-07,61
+polo,2019-08,59
+polo,2019-09,58
+polo,2019-10,55
+polo,2019-11,64
+polo,2019-12,71
+polo,2020-01,49
+polo,2020-02,50
+polo,2020-03,42
+polo,2020-04,41
+polo,2020-05,53
+polo,2020-06,63
+polo,2020-07,60
+polo,2020-08,56
+polo,2020-09,55
+polo,2020-10,53
+polo,2020-11,60
+polo,2020-12,65
+polo,2021-01,49
+polo,2021-02,50
+polo,2021-03,58
+polo,2021-04,68
+polo,2021-05,65
+polo,2021-06,83
+polo,2021-07,81
+polo,2021-08,80
+polo,2021-09,64
+polo,2021-10,67
+powerlifting,2019-01,86
+powerlifting,2019-02,94
+powerlifting,2019-03,90
+powerlifting,2019-04,71
+powerlifting,2019-05,68
+powerlifting,2019-06,69
+powerlifting,2019-07,65
+powerlifting,2019-08,71
+powerlifting,2019-09,66
+powerlifting,2019-10,71
+powerlifting,2019-11,66
+powerlifting,2019-12,73
+powerlifting,2020-01,78
+powerlifting,2020-02,85
+powerlifting,2020-03,59
+powerlifting,2020-04,38
+powerlifting,2020-05,42
+powerlifting,2020-06,42
+powerlifting,2020-07,52
+powerlifting,2020-08,50
+powerlifting,2020-09,50
+powerlifting,2020-10,49
+powerlifting,2020-11,48
+powerlifting,2020-12,57
+powerlifting,2021-01,61
+powerlifting,2021-02,62
+powerlifting,2021-03,58
+powerlifting,2021-04,58
+powerlifting,2021-05,58
+powerlifting,2021-06,62
+powerlifting,2021-07,61
+powerlifting,2021-08,66
+powerlifting,2021-09,56
+powerlifting,2021-10,58
+composting,2019-01,32
+composting,2019-02,34
+composting,2019-03,38
+composting,2019-04,54
+composting,2019-05,60
+composting,2019-06,42
+composting,2019-07,34
+composting,2019-08,37
+composting,2019-09,37
+composting,2019-10,37
+composting,2019-11,32
+composting,2019-12,29
+composting,2020-01,38
+composting,2020-02,35
+composting,2020-03,42
+composting,2020-04,55
+composting,2020-05,59
+composting,2020-06,47
+composting,2020-07,47
+composting,2020-08,41
+composting,2020-09,36
+composting,2020-10,32
+composting,2020-11,29
+composting,2020-12,28
+composting,2021-01,34
+composting,2021-02,35
+composting,2021-03,38
+composting,2021-04,46
+composting,2021-05,43
+composting,2021-06,35
+composting,2021-07,28
+composting,2021-08,31
+composting,2021-09,31
+composting,2021-10,25
+safari,2019-01,49
+safari,2019-02,46
+safari,2019-03,51
+safari,2019-04,52
+safari,2019-05,53
+safari,2019-06,56
+safari,2019-07,59
+safari,2019-08,56
+safari,2019-09,52
+safari,2019-10,50
+safari,2019-11,47
+safari,2019-12,47
+safari,2020-01,50
+safari,2020-02,49
+safari,2020-03,52
+safari,2020-04,53
+safari,2020-05,61
+safari,2020-06,65
+safari,2020-07,67
+safari,2020-08,63
+safari,2020-09,59
+safari,2020-10,51
+safari,2020-11,44
+safari,2020-12,43
+safari,2021-01,46
+safari,2021-02,48
+safari,2021-03,53
+safari,2021-04,54
+safari,2021-05,58
+safari,2021-06,58
+safari,2021-07,64
+safari,2021-08,57
+safari,2021-09,57
+safari,2021-10,58
+esports,2019-01,52
+esports,2019-02,59
+esports,2019-03,62
+esports,2019-04,53
+esports,2019-05,58
+esports,2019-06,53
+esports,2019-07,56
+esports,2019-08,58
+esports,2019-09,63
+esports,2019-10,78
+esports,2019-11,63
+esports,2019-12,53
+esports,2020-01,58
+esports,2020-02,70
+esports,2020-03,61
+esports,2020-04,64
+esports,2020-05,55
+esports,2020-06,57
+esports,2020-07,68
+esports,2020-08,55
+esports,2020-09,66
+esports,2020-10,77
+esports,2020-11,42
+esports,2020-12,46
+esports,2021-01,51
+esports,2021-02,65
+esports,2021-03,60
+esports,2021-04,57
+esports,2021-05,56
+esports,2021-06,51
+esports,2021-07,52
+esports,2021-08,53
+esports,2021-09,54
+esports,2021-10,63
+mineral collecting,2019-01,7
+mineral collecting,2019-02,7
+mineral collecting,2019-03,0
+mineral collecting,2019-04,0
+mineral collecting,2019-05,7
+mineral collecting,2019-06,7
+mineral collecting,2019-07,5
+mineral collecting,2019-08,0
+mineral collecting,2019-09,4
+mineral collecting,2019-10,8
+mineral collecting,2019-11,9
+mineral collecting,2019-12,2
+mineral collecting,2020-01,2
+mineral collecting,2020-02,2
+mineral collecting,2020-03,2
+mineral collecting,2020-04,5
+mineral collecting,2020-05,14
+mineral collecting,2020-06,6
+mineral collecting,2020-07,6
+mineral collecting,2020-08,8
+mineral collecting,2020-09,6
+mineral collecting,2020-10,0
+mineral collecting,2020-11,2
+mineral collecting,2020-12,4
+mineral collecting,2021-01,4
+mineral collecting,2021-02,5
+mineral collecting,2021-03,2
+mineral collecting,2021-04,2
+mineral collecting,2021-05,9
+mineral collecting,2021-06,9
+mineral collecting,2021-07,4
+mineral collecting,2021-08,0
+mineral collecting,2021-09,2
+mineral collecting,2021-10,8
+quizzes,2019-01,30
+quizzes,2019-02,33
+quizzes,2019-03,33
+quizzes,2019-04,35
+quizzes,2019-05,37
+quizzes,2019-06,24
+quizzes,2019-07,19
+quizzes,2019-08,26
+quizzes,2019-09,37
+quizzes,2019-10,37
+quizzes,2019-11,33
+quizzes,2019-12,33
+quizzes,2020-01,33
+quizzes,2020-02,35
+quizzes,2020-03,32
+quizzes,2020-04,30
+quizzes,2020-05,23
+quizzes,2020-06,18
+quizzes,2020-07,17
+quizzes,2020-08,21
+quizzes,2020-09,35
+quizzes,2020-10,25
+quizzes,2020-11,19
+quizzes,2020-12,18
+quizzes,2021-01,20
+quizzes,2021-02,19
+quizzes,2021-03,19
+quizzes,2021-04,19
+quizzes,2021-05,17
+quizzes,2021-06,13
+quizzes,2021-07,11
+quizzes,2021-08,13
+quizzes,2021-09,18
+quizzes,2021-10,16
+research,2019-01,30
+research,2019-02,32
+research,2019-03,30
+research,2019-04,31
+research,2019-05,25
+research,2019-06,24
+research,2019-07,23
+research,2019-08,24
+research,2019-09,32
+research,2019-10,31
+research,2019-11,28
+research,2019-12,22
+research,2020-01,27
+research,2020-02,31
+research,2020-03,27
+research,2020-04,27
+research,2020-05,24
+research,2020-06,22
+research,2020-07,23
+research,2020-08,23
+research,2020-09,31
+research,2020-10,26
+research,2020-11,23
+research,2020-12,20
+research,2021-01,21
+research,2021-02,24
+research,2021-03,23
+research,2021-04,24
+research,2021-05,22
+research,2021-06,19
+research,2021-07,18
+research,2021-08,19
+research,2021-09,26
+research,2021-10,25
+watching movies,2019-01,11
+watching movies,2019-02,9
+watching movies,2019-03,10
+watching movies,2019-04,10
+watching movies,2019-05,9
+watching movies,2019-06,7
+watching movies,2019-07,9
+watching movies,2019-08,8
+watching movies,2019-09,10
+watching movies,2019-10,10
+watching movies,2019-11,12
+watching movies,2019-12,12
+watching movies,2020-01,11
+watching movies,2020-02,9
+watching movies,2020-03,11
+watching movies,2020-04,13
+watching movies,2020-05,11
+watching movies,2020-06,11
+watching movies,2020-07,10
+watching movies,2020-08,10
+watching movies,2020-09,11
+watching movies,2020-10,11
+watching movies,2020-11,11
+watching movies,2020-12,11
+watching movies,2021-01,10
+watching movies,2021-02,11
+watching movies,2021-03,8
+watching movies,2021-04,10
+watching movies,2021-05,8
+watching movies,2021-06,10
+watching movies,2021-07,11
+watching movies,2021-08,10
+watching movies,2021-09,12
+watching movies,2021-10,9
+zoo visiting,2019-01,12
+zoo visiting,2019-02,13
+zoo visiting,2019-03,10
+zoo visiting,2019-04,20
+zoo visiting,2019-05,17
+zoo visiting,2019-06,15
+zoo visiting,2019-07,18
+zoo visiting,2019-08,2
+zoo visiting,2019-09,5
+zoo visiting,2019-10,5
+zoo visiting,2019-11,23
+zoo visiting,2019-12,12
+zoo visiting,2020-01,9
+zoo visiting,2020-02,14
+zoo visiting,2020-03,22
+zoo visiting,2020-04,10
+zoo visiting,2020-05,6
+zoo visiting,2020-06,0
+zoo visiting,2020-07,13
+zoo visiting,2020-08,17
+zoo visiting,2020-09,17
+zoo visiting,2020-10,12
+zoo visiting,2020-11,9
+zoo visiting,2020-12,0
+zoo visiting,2021-01,9
+zoo visiting,2021-02,5
+zoo visiting,2021-03,20
+zoo visiting,2021-04,7
+zoo visiting,2021-05,19
+zoo visiting,2021-06,22
+zoo visiting,2021-07,24
+zoo visiting,2021-08,20
+zoo visiting,2021-09,8
+zoo visiting,2021-10,17
+skateboarding,2019-01,9
+skateboarding,2019-02,9
+skateboarding,2019-03,10
+skateboarding,2019-04,11
+skateboarding,2019-05,10
+skateboarding,2019-06,10
+skateboarding,2019-07,10
+skateboarding,2019-08,10
+skateboarding,2019-09,10
+skateboarding,2019-10,9
+skateboarding,2019-11,10
+skateboarding,2019-12,9
+skateboarding,2020-01,10
+skateboarding,2020-02,11
+skateboarding,2020-03,10
+skateboarding,2020-04,12
+skateboarding,2020-05,14
+skateboarding,2020-06,15
+skateboarding,2020-07,14
+skateboarding,2020-08,13
+skateboarding,2020-09,16
+skateboarding,2020-10,14
+skateboarding,2020-11,11
+skateboarding,2020-12,11
+skateboarding,2021-01,10
+skateboarding,2021-02,9
+skateboarding,2021-03,10
+skateboarding,2021-04,11
+skateboarding,2021-05,10
+skateboarding,2021-06,11
+skateboarding,2021-07,60
+skateboarding,2021-08,25
+skateboarding,2021-09,9
+skateboarding,2021-10,10
+herbalism,2019-01,7
+herbalism,2019-02,8
+herbalism,2019-03,7
+herbalism,2019-04,8
+herbalism,2019-05,9
+herbalism,2019-06,9
+herbalism,2019-07,7
+herbalism,2019-08,12
+herbalism,2019-09,21
+herbalism,2019-10,17
+herbalism,2019-11,13
+herbalism,2019-12,12
+herbalism,2020-01,14
+herbalism,2020-02,14
+herbalism,2020-03,11
+herbalism,2020-04,18
+herbalism,2020-05,14
+herbalism,2020-06,15
+herbalism,2020-07,14
+herbalism,2020-08,14
+herbalism,2020-09,12
+herbalism,2020-10,8
+herbalism,2020-11,10
+herbalism,2020-12,12
+herbalism,2021-01,10
+herbalism,2021-02,11
+herbalism,2021-03,9
+herbalism,2021-04,8
+herbalism,2021-05,10
+herbalism,2021-06,14
+herbalism,2021-07,9
+herbalism,2021-08,8
+herbalism,2021-09,8
+herbalism,2021-10,6
+frisbee,2019-01,17
+frisbee,2019-02,19
+frisbee,2019-03,25
+frisbee,2019-04,31
+frisbee,2019-05,32
+frisbee,2019-06,33
+frisbee,2019-07,28
+frisbee,2019-08,30
+frisbee,2019-09,28
+frisbee,2019-10,23
+frisbee,2019-11,18
+frisbee,2019-12,16
+frisbee,2020-01,20
+frisbee,2020-02,20
+frisbee,2020-03,21
+frisbee,2020-04,26
+frisbee,2020-05,31
+frisbee,2020-06,30
+frisbee,2020-07,28
+frisbee,2020-08,26
+frisbee,2020-09,27
+frisbee,2020-10,22
+frisbee,2020-11,19
+frisbee,2020-12,17
+frisbee,2021-01,16
+frisbee,2021-02,17
+frisbee,2021-03,23
+frisbee,2021-04,25
+frisbee,2021-05,30
+frisbee,2021-06,31
+frisbee,2021-07,28
+frisbee,2021-08,26
+frisbee,2021-09,24
+frisbee,2021-10,20
+storm chasing,2019-01,11
+storm chasing,2019-02,15
+storm chasing,2019-03,22
+storm chasing,2019-04,28
+storm chasing,2019-05,54
+storm chasing,2019-06,22
+storm chasing,2019-07,15
+storm chasing,2019-08,14
+storm chasing,2019-09,11
+storm chasing,2019-10,7
+storm chasing,2019-11,8
+storm chasing,2019-12,10
+storm chasing,2020-01,15
+storm chasing,2020-02,12
+storm chasing,2020-03,20
+storm chasing,2020-04,28
+storm chasing,2020-05,25
+storm chasing,2020-06,19
+storm chasing,2020-07,10
+storm chasing,2020-08,19
+storm chasing,2020-09,12
+storm chasing,2020-10,13
+storm chasing,2020-11,9
+storm chasing,2020-12,11
+storm chasing,2021-01,10
+storm chasing,2021-02,11
+storm chasing,2021-03,29
+storm chasing,2021-04,19
+storm chasing,2021-05,29
+storm chasing,2021-06,19
+storm chasing,2021-07,13
+storm chasing,2021-08,15
+storm chasing,2021-09,10
+storm chasing,2021-10,18
+aquascaping,2019-01,27
+aquascaping,2019-02,41
+aquascaping,2019-03,30
+aquascaping,2019-04,32
+aquascaping,2019-05,38
+aquascaping,2019-06,36
+aquascaping,2019-07,21
+aquascaping,2019-08,21
+aquascaping,2019-09,28
+aquascaping,2019-10,21
+aquascaping,2019-11,29
+aquascaping,2019-12,34
+aquascaping,2020-01,32
+aquascaping,2020-02,29
+aquascaping,2020-03,27
+aquascaping,2020-04,22
+aquascaping,2020-05,33
+aquascaping,2020-06,30
+aquascaping,2020-07,29
+aquascaping,2020-08,27
+aquascaping,2020-09,28
+aquascaping,2020-10,13
+aquascaping,2020-11,27
+aquascaping,2020-12,21
+aquascaping,2021-01,30
+aquascaping,2021-02,34
+aquascaping,2021-03,22
+aquascaping,2021-04,30
+aquascaping,2021-05,20
+aquascaping,2021-06,17
+aquascaping,2021-07,17
+aquascaping,2021-08,38
+aquascaping,2021-09,23
+aquascaping,2021-10,18
+video game developing,2019-01,10
+video game developing,2019-02,0
+video game developing,2019-03,6
+video game developing,2019-04,10
+video game developing,2019-05,10
+video game developing,2019-06,0
+video game developing,2019-07,3
+video game developing,2019-08,0
+video game developing,2019-09,9
+video game developing,2019-10,12
+video game developing,2019-11,3
+video game developing,2019-12,6
+video game developing,2020-01,0
+video game developing,2020-02,3
+video game developing,2020-03,8
+video game developing,2020-04,8
+video game developing,2020-05,10
+video game developing,2020-06,3
+video game developing,2020-07,6
+video game developing,2020-08,6
+video game developing,2020-09,3
+video game developing,2020-10,3
+video game developing,2020-11,0
+video game developing,2020-12,0
+video game developing,2021-01,0
+video game developing,2021-02,7
+video game developing,2021-03,0
+video game developing,2021-04,6
+video game developing,2021-05,10
+video game developing,2021-06,0
+video game developing,2021-07,3
+video game developing,2021-08,6
+video game developing,2021-09,3
+video game developing,2021-10,11
+rugby league football,2019-01,4
+rugby league football,2019-02,11
+rugby league football,2019-03,11
+rugby league football,2019-04,7
+rugby league football,2019-05,9
+rugby league football,2019-06,2
+rugby league football,2019-07,5
+rugby league football,2019-08,7
+rugby league football,2019-09,13
+rugby league football,2019-10,8
+rugby league football,2019-11,8
+rugby league football,2019-12,2
+rugby league football,2020-01,4
+rugby league football,2020-02,10
+rugby league football,2020-03,14
+rugby league football,2020-04,0
+rugby league football,2020-05,0
+rugby league football,2020-06,7
+rugby league football,2020-07,10
+rugby league football,2020-08,8
+rugby league football,2020-09,6
+rugby league football,2020-10,6
+rugby league football,2020-11,4
+rugby league football,2020-12,6
+rugby league football,2021-01,0
+rugby league football,2021-02,5
+rugby league football,2021-03,2
+rugby league football,2021-04,2
+rugby league football,2021-05,9
+rugby league football,2021-06,2
+rugby league football,2021-07,0
+rugby league football,2021-08,7
+rugby league football,2021-09,2
+rugby league football,2021-10,8
+jujitsu,2019-01,17
+jujitsu,2019-02,17
+jujitsu,2019-03,15
+jujitsu,2019-04,16
+jujitsu,2019-05,14
+jujitsu,2019-06,16
+jujitsu,2019-07,13
+jujitsu,2019-08,18
+jujitsu,2019-09,15
+jujitsu,2019-10,14
+jujitsu,2019-11,14
+jujitsu,2019-12,14
+jujitsu,2020-01,17
+jujitsu,2020-02,18
+jujitsu,2020-03,11
+jujitsu,2020-04,8
+jujitsu,2020-05,8
+jujitsu,2020-06,11
+jujitsu,2020-07,13
+jujitsu,2020-08,11
+jujitsu,2020-09,13
+jujitsu,2020-10,16
+jujitsu,2020-11,18
+jujitsu,2020-12,18
+jujitsu,2021-01,24
+jujitsu,2021-02,28
+jujitsu,2021-03,30
+jujitsu,2021-04,32
+jujitsu,2021-05,25
+jujitsu,2021-06,28
+jujitsu,2021-07,27
+jujitsu,2021-08,26
+jujitsu,2021-09,26
+jujitsu,2021-10,24
+videography,2019-01,38
+videography,2019-02,35
+videography,2019-03,36
+videography,2019-04,33
+videography,2019-05,32
+videography,2019-06,33
+videography,2019-07,41
+videography,2019-08,33
+videography,2019-09,32
+videography,2019-10,32
+videography,2019-11,31
+videography,2019-12,25
+videography,2020-01,37
+videography,2020-02,36
+videography,2020-03,30
+videography,2020-04,27
+videography,2020-05,28
+videography,2020-06,29
+videography,2020-07,28
+videography,2020-08,34
+videography,2020-09,35
+videography,2020-10,28
+videography,2020-11,30
+videography,2020-12,25
+videography,2021-01,30
+videography,2021-02,28
+videography,2021-03,36
+videography,2021-04,34
+videography,2021-05,34
+videography,2021-06,28
+videography,2021-07,30
+videography,2021-08,34
+videography,2021-09,35
+videography,2021-10,39
+stone collecting,2019-01,5
+stone collecting,2019-02,11
+stone collecting,2019-03,15
+stone collecting,2019-04,16
+stone collecting,2019-05,0
+stone collecting,2019-06,11
+stone collecting,2019-07,21
+stone collecting,2019-08,10
+stone collecting,2019-09,20
+stone collecting,2019-10,0
+stone collecting,2019-11,5
+stone collecting,2019-12,5
+stone collecting,2020-01,9
+stone collecting,2020-02,14
+stone collecting,2020-03,8
+stone collecting,2020-04,12
+stone collecting,2020-05,4
+stone collecting,2020-06,17
+stone collecting,2020-07,5
+stone collecting,2020-08,13
+stone collecting,2020-09,13
+stone collecting,2020-10,10
+stone collecting,2020-11,5
+stone collecting,2020-12,20
+stone collecting,2021-01,5
+stone collecting,2021-02,16
+stone collecting,2021-03,10
+stone collecting,2021-04,0
+stone collecting,2021-05,5
+stone collecting,2021-06,10
+stone collecting,2021-07,10
+stone collecting,2021-08,26
+stone collecting,2021-09,5
+stone collecting,2021-10,0
+gingerbread house making,2019-01,3
+gingerbread house making,2019-02,0
+gingerbread house making,2019-03,2
+gingerbread house making,2019-04,0
+gingerbread house making,2019-05,1
+gingerbread house making,2019-06,0
+gingerbread house making,2019-07,0
+gingerbread house making,2019-08,4
+gingerbread house making,2019-09,1
+gingerbread house making,2019-10,9
+gingerbread house making,2019-11,15
+gingerbread house making,2019-12,44
+gingerbread house making,2020-01,1
+gingerbread house making,2020-02,0
+gingerbread house making,2020-03,1
+gingerbread house making,2020-04,1
+gingerbread house making,2020-05,0
+gingerbread house making,2020-06,1
+gingerbread house making,2020-07,0
+gingerbread house making,2020-08,1
+gingerbread house making,2020-09,3
+gingerbread house making,2020-10,0
+gingerbread house making,2020-11,10
+gingerbread house making,2020-12,40
+gingerbread house making,2021-01,2
+gingerbread house making,2021-02,0
+gingerbread house making,2021-03,0
+gingerbread house making,2021-04,0
+gingerbread house making,2021-05,0
+gingerbread house making,2021-06,0
+gingerbread house making,2021-07,0
+gingerbread house making,2021-08,0
+gingerbread house making,2021-09,0
+gingerbread house making,2021-10,0
+cornhole,2019-01,14
+cornhole,2019-02,12
+cornhole,2019-03,18
+cornhole,2019-04,31
+cornhole,2019-05,47
+cornhole,2019-06,66
+cornhole,2019-07,75
+cornhole,2019-08,57
+cornhole,2019-09,41
+cornhole,2019-10,25
+cornhole,2019-11,21
+cornhole,2019-12,25
+cornhole,2020-01,17
+cornhole,2020-02,20
+cornhole,2020-03,23
+cornhole,2020-04,42
+cornhole,2020-05,81
+cornhole,2020-06,100
+cornhole,2020-07,85
+cornhole,2020-08,61
+cornhole,2020-09,47
+cornhole,2020-10,32
+cornhole,2020-11,29
+cornhole,2020-12,31
+cornhole,2021-01,21
+cornhole,2021-02,20
+cornhole,2021-03,28
+cornhole,2021-04,44
+cornhole,2021-05,61
+cornhole,2021-06,75
+cornhole,2021-07,85
+cornhole,2021-08,54
+cornhole,2021-09,44
+cornhole,2021-10,35
+quidditch,2019-01,25
+quidditch,2019-02,21
+quidditch,2019-03,24
+quidditch,2019-04,24
+quidditch,2019-05,21
+quidditch,2019-06,25
+quidditch,2019-07,25
+quidditch,2019-08,21
+quidditch,2019-09,43
+quidditch,2019-10,31
+quidditch,2019-11,28
+quidditch,2019-12,27
+quidditch,2020-01,22
+quidditch,2020-02,26
+quidditch,2020-03,26
+quidditch,2020-04,36
+quidditch,2020-05,37
+quidditch,2020-06,28
+quidditch,2020-07,31
+quidditch,2020-08,26
+quidditch,2020-09,42
+quidditch,2020-10,39
+quidditch,2020-11,34
+quidditch,2020-12,35
+quidditch,2021-01,29
+quidditch,2021-02,27
+quidditch,2021-03,22
+quidditch,2021-04,21
+quidditch,2021-05,21
+quidditch,2021-06,27
+quidditch,2021-07,24
+quidditch,2021-08,24
+quidditch,2021-09,25
+quidditch,2021-10,27
+speed skating,2019-01,2
+speed skating,2019-02,2
+speed skating,2019-03,2
+speed skating,2019-04,1
+speed skating,2019-05,1
+speed skating,2019-06,1
+speed skating,2019-07,1
+speed skating,2019-08,1
+speed skating,2019-09,1
+speed skating,2019-10,1
+speed skating,2019-11,2
+speed skating,2019-12,2
+speed skating,2020-01,2
+speed skating,2020-02,2
+speed skating,2020-03,1
+speed skating,2020-04,1
+speed skating,2020-05,1
+speed skating,2020-06,1
+speed skating,2020-07,2
+speed skating,2020-08,1
+speed skating,2020-09,1
+speed skating,2020-10,1
+speed skating,2020-11,1
+speed skating,2020-12,1
+speed skating,2021-01,2
+speed skating,2021-02,1
+speed skating,2021-03,1
+speed skating,2021-04,1
+speed skating,2021-05,1
+speed skating,2021-06,1
+speed skating,2021-07,1
+speed skating,2021-08,1
+speed skating,2021-09,1
+speed skating,2021-10,1
+origami,2019-01,24
+origami,2019-02,28
+origami,2019-03,24
+origami,2019-04,26
+origami,2019-05,32
+origami,2019-06,22
+origami,2019-07,20
+origami,2019-08,21
+origami,2019-09,24
+origami,2019-10,25
+origami,2019-11,28
+origami,2019-12,31
+origami,2020-01,25
+origami,2020-02,29
+origami,2020-03,25
+origami,2020-04,29
+origami,2020-05,33
+origami,2020-06,24
+origami,2020-07,48
+origami,2020-08,35
+origami,2020-09,27
+origami,2020-10,22
+origami,2020-11,21
+origami,2020-12,26
+origami,2021-01,20
+origami,2021-02,24
+origami,2021-03,20
+origami,2021-04,20
+origami,2021-05,24
+origami,2021-06,20
+origami,2021-07,19
+origami,2021-08,19
+origami,2021-09,20
+origami,2021-10,24
+tai chi,2019-01,30
+tai chi,2019-02,27
+tai chi,2019-03,29
+tai chi,2019-04,29
+tai chi,2019-05,26
+tai chi,2019-06,30
+tai chi,2019-07,28
+tai chi,2019-08,27
+tai chi,2019-09,25
+tai chi,2019-10,25
+tai chi,2019-11,25
+tai chi,2019-12,22
+tai chi,2020-01,28
+tai chi,2020-02,27
+tai chi,2020-03,23
+tai chi,2020-04,23
+tai chi,2020-05,21
+tai chi,2020-06,21
+tai chi,2020-07,24
+tai chi,2020-08,22
+tai chi,2020-09,25
+tai chi,2020-10,20
+tai chi,2020-11,18
+tai chi,2020-12,36
+tai chi,2021-01,22
+tai chi,2021-02,20
+tai chi,2021-03,18
+tai chi,2021-04,19
+tai chi,2021-05,23
+tai chi,2021-06,24
+tai chi,2021-07,23
+tai chi,2021-08,22
+tai chi,2021-09,23
+tai chi,2021-10,22
+billiards,2019-01,29
+billiards,2019-02,31
+billiards,2019-03,30
+billiards,2019-04,25
+billiards,2019-05,26
+billiards,2019-06,27
+billiards,2019-07,27
+billiards,2019-08,25
+billiards,2019-09,23
+billiards,2019-10,22
+billiards,2019-11,28
+billiards,2019-12,28
+billiards,2020-01,29
+billiards,2020-02,29
+billiards,2020-03,21
+billiards,2020-04,12
+billiards,2020-05,15
+billiards,2020-06,21
+billiards,2020-07,19
+billiards,2020-08,18
+billiards,2020-09,18
+billiards,2020-10,21
+billiards,2020-11,19
+billiards,2020-12,20
+billiards,2021-01,23
+billiards,2021-02,25
+billiards,2021-03,26
+billiards,2021-04,24
+billiards,2021-05,27
+billiards,2021-06,26
+billiards,2021-07,28
+billiards,2021-08,23
+billiards,2021-09,24
+billiards,2021-10,27
+race walking,2019-01,6
+race walking,2019-02,6
+race walking,2019-03,8
+race walking,2019-04,8
+race walking,2019-05,6
+race walking,2019-06,6
+race walking,2019-07,6
+race walking,2019-08,7
+race walking,2019-09,7
+race walking,2019-10,10
+race walking,2019-11,9
+race walking,2019-12,4
+race walking,2020-01,5
+race walking,2020-02,4
+race walking,2020-03,7
+race walking,2020-04,8
+race walking,2020-05,7
+race walking,2020-06,7
+race walking,2020-07,6
+race walking,2020-08,5
+race walking,2020-09,7
+race walking,2020-10,7
+race walking,2020-11,3
+race walking,2020-12,4
+race walking,2021-01,7
+race walking,2021-02,5
+race walking,2021-03,7
+race walking,2021-04,6
+race walking,2021-05,6
+race walking,2021-06,10
+race walking,2021-07,12
+race walking,2021-08,71
+race walking,2021-09,6
+race walking,2021-10,11
+kite flying,2019-01,25
+kite flying,2019-02,29
+kite flying,2019-03,37
+kite flying,2019-04,42
+kite flying,2019-05,37
+kite flying,2019-06,21
+kite flying,2019-07,16
+kite flying,2019-08,13
+kite flying,2019-09,23
+kite flying,2019-10,28
+kite flying,2019-11,15
+kite flying,2019-12,22
+kite flying,2020-01,27
+kite flying,2020-02,29
+kite flying,2020-03,31
+kite flying,2020-04,34
+kite flying,2020-05,44
+kite flying,2020-06,19
+kite flying,2020-07,28
+kite flying,2020-08,27
+kite flying,2020-09,27
+kite flying,2020-10,23
+kite flying,2020-11,20
+kite flying,2020-12,12
+kite flying,2021-01,23
+kite flying,2021-02,29
+kite flying,2021-03,40
+kite flying,2021-04,34
+kite flying,2021-05,29
+kite flying,2021-06,27
+kite flying,2021-07,23
+kite flying,2021-08,19
+kite flying,2021-09,16
+kite flying,2021-10,9
+vacation,2019-01,54
+vacation,2019-02,50
+vacation,2019-03,49
+vacation,2019-04,45
+vacation,2019-05,47
+vacation,2019-06,55
+vacation,2019-07,56
+vacation,2019-08,44
+vacation,2019-09,39
+vacation,2019-10,36
+vacation,2019-11,42
+vacation,2019-12,60
+vacation,2020-01,55
+vacation,2020-02,50
+vacation,2020-03,35
+vacation,2020-04,25
+vacation,2020-05,41
+vacation,2020-06,54
+vacation,2020-07,49
+vacation,2020-08,44
+vacation,2020-09,35
+vacation,2020-10,34
+vacation,2020-11,37
+vacation,2020-12,55
+vacation,2021-01,43
+vacation,2021-02,46
+vacation,2021-03,54
+vacation,2021-04,54
+vacation,2021-05,58
+vacation,2021-06,63
+vacation,2021-07,59
+vacation,2021-08,50
+vacation,2021-09,43
+vacation,2021-10,39
+breakdancing,2019-01,4
+breakdancing,2019-02,8
+breakdancing,2019-03,7
+breakdancing,2019-04,5
+breakdancing,2019-05,6
+breakdancing,2019-06,6
+breakdancing,2019-07,5
+breakdancing,2019-08,4
+breakdancing,2019-09,5
+breakdancing,2019-10,5
+breakdancing,2019-11,5
+breakdancing,2019-12,3
+breakdancing,2020-01,7
+breakdancing,2020-02,6
+breakdancing,2020-03,5
+breakdancing,2020-04,4
+breakdancing,2020-05,5
+breakdancing,2020-06,5
+breakdancing,2020-07,5
+breakdancing,2020-08,4
+breakdancing,2020-09,5
+breakdancing,2020-10,5
+breakdancing,2020-11,4
+breakdancing,2020-12,19
+breakdancing,2021-01,6
+breakdancing,2021-02,7
+breakdancing,2021-03,4
+breakdancing,2021-04,4
+breakdancing,2021-05,3
+breakdancing,2021-06,5
+breakdancing,2021-07,10
+breakdancing,2021-08,9
+breakdancing,2021-09,3
+breakdancing,2021-10,4
+marbles,2019-01,30
+marbles,2019-02,34
+marbles,2019-03,35
+marbles,2019-04,30
+marbles,2019-05,33
+marbles,2019-06,26
+marbles,2019-07,28
+marbles,2019-08,30
+marbles,2019-09,28
+marbles,2019-10,28
+marbles,2019-11,27
+marbles,2019-12,25
+marbles,2020-01,28
+marbles,2020-02,30
+marbles,2020-03,28
+marbles,2020-04,27
+marbles,2020-05,29
+marbles,2020-06,79
+marbles,2020-07,33
+marbles,2020-08,26
+marbles,2020-09,28
+marbles,2020-10,25
+marbles,2020-11,24
+marbles,2020-12,24
+marbles,2021-01,25
+marbles,2021-02,23
+marbles,2021-03,26
+marbles,2021-04,28
+marbles,2021-05,27
+marbles,2021-06,23
+marbles,2021-07,19
+marbles,2021-08,20
+marbles,2021-09,21
+marbles,2021-10,27
+tennis,2019-01,47
+tennis,2019-02,39
+tennis,2019-03,50
+tennis,2019-04,46
+tennis,2019-05,48
+tennis,2019-06,50
+tennis,2019-07,65
+tennis,2019-08,76
+tennis,2019-09,81
+tennis,2019-10,38
+tennis,2019-11,33
+tennis,2019-12,31
+tennis,2020-01,48
+tennis,2020-02,43
+tennis,2020-03,30
+tennis,2020-04,24
+tennis,2020-05,33
+tennis,2020-06,38
+tennis,2020-07,39
+tennis,2020-08,44
+tennis,2020-09,72
+tennis,2020-10,41
+tennis,2020-11,33
+tennis,2020-12,29
+tennis,2021-01,30
+tennis,2021-02,49
+tennis,2021-03,43
+tennis,2021-04,49
+tennis,2021-05,52
+tennis,2021-06,61
+tennis,2021-07,64
+tennis,2021-08,57
+tennis,2021-09,96
+tennis,2021-10,44
+fishkeeping,2019-01,4
+fishkeeping,2019-02,5
+fishkeeping,2019-03,0
+fishkeeping,2019-04,0
+fishkeeping,2019-05,0
+fishkeeping,2019-06,5
+fishkeeping,2019-07,9
+fishkeeping,2019-08,4
+fishkeeping,2019-09,4
+fishkeeping,2019-10,0
+fishkeeping,2019-11,4
+fishkeeping,2019-12,8
+fishkeeping,2020-01,4
+fishkeeping,2020-02,8
+fishkeeping,2020-03,14
+fishkeeping,2020-04,4
+fishkeeping,2020-05,7
+fishkeeping,2020-06,0
+fishkeeping,2020-07,8
+fishkeeping,2020-08,4
+fishkeeping,2020-09,4
+fishkeeping,2020-10,12
+fishkeeping,2020-11,12
+fishkeeping,2020-12,0
+fishkeeping,2021-01,12
+fishkeeping,2021-02,9
+fishkeeping,2021-03,0
+fishkeeping,2021-04,4
+fishkeeping,2021-05,13
+fishkeeping,2021-06,9
+fishkeeping,2021-07,9
+fishkeeping,2021-08,4
+fishkeeping,2021-09,0
+fishkeeping,2021-10,0
+plastic art,2019-01,42
+plastic art,2019-02,43
+plastic art,2019-03,34
+plastic art,2019-04,44
+plastic art,2019-05,41
+plastic art,2019-06,35
+plastic art,2019-07,26
+plastic art,2019-08,29
+plastic art,2019-09,30
+plastic art,2019-10,36
+plastic art,2019-11,28
+plastic art,2019-12,28
+plastic art,2020-01,29
+plastic art,2020-02,31
+plastic art,2020-03,36
+plastic art,2020-04,41
+plastic art,2020-05,31
+plastic art,2020-06,24
+plastic art,2020-07,35
+plastic art,2020-08,35
+plastic art,2020-09,35
+plastic art,2020-10,30
+plastic art,2020-11,25
+plastic art,2020-12,32
+plastic art,2021-01,28
+plastic art,2021-02,22
+plastic art,2021-03,24
+plastic art,2021-04,26
+plastic art,2021-05,36
+plastic art,2021-06,28
+plastic art,2021-07,33
+plastic art,2021-08,22
+plastic art,2021-09,34
+plastic art,2021-10,26
+pyrography,2019-01,37
+pyrography,2019-02,43
+pyrography,2019-03,25
+pyrography,2019-04,22
+pyrography,2019-05,28
+pyrography,2019-06,31
+pyrography,2019-07,24
+pyrography,2019-08,30
+pyrography,2019-09,24
+pyrography,2019-10,33
+pyrography,2019-11,60
+pyrography,2019-12,54
+pyrography,2020-01,49
+pyrography,2020-02,35
+pyrography,2020-03,34
+pyrography,2020-04,44
+pyrography,2020-05,44
+pyrography,2020-06,38
+pyrography,2020-07,34
+pyrography,2020-08,40
+pyrography,2020-09,32
+pyrography,2020-10,33
+pyrography,2020-11,32
+pyrography,2020-12,69
+pyrography,2021-01,41
+pyrography,2021-02,41
+pyrography,2021-03,37
+pyrography,2021-04,15
+pyrography,2021-05,22
+pyrography,2021-06,21
+pyrography,2021-07,23
+pyrography,2021-08,25
+pyrography,2021-09,24
+pyrography,2021-10,24
+poker,2019-01,15
+poker,2019-02,14
+poker,2019-03,14
+poker,2019-04,12
+poker,2019-05,13
+poker,2019-06,15
+poker,2019-07,20
+poker,2019-08,14
+poker,2019-09,12
+poker,2019-10,13
+poker,2019-11,13
+poker,2019-12,15
+poker,2020-01,16
+poker,2020-02,14
+poker,2020-03,16
+poker,2020-04,19
+poker,2020-05,16
+poker,2020-06,14
+poker,2020-07,26
+poker,2020-08,15
+poker,2020-09,13
+poker,2020-10,13
+poker,2020-11,13
+poker,2020-12,16
+poker,2021-01,16
+poker,2021-02,18
+poker,2021-03,16
+poker,2021-04,14
+poker,2021-05,15
+poker,2021-06,15
+poker,2021-07,16
+poker,2021-08,15
+poker,2021-09,14
+poker,2021-10,15
+cryptography,2019-01,19
+cryptography,2019-02,22
+cryptography,2019-03,21
+cryptography,2019-04,20
+cryptography,2019-05,20
+cryptography,2019-06,15
+cryptography,2019-07,14
+cryptography,2019-08,16
+cryptography,2019-09,21
+cryptography,2019-10,22
+cryptography,2019-11,20
+cryptography,2019-12,14
+cryptography,2020-01,19
+cryptography,2020-02,16
+cryptography,2020-03,15
+cryptography,2020-04,18
+cryptography,2020-05,15
+cryptography,2020-06,12
+cryptography,2020-07,15
+cryptography,2020-08,14
+cryptography,2020-09,17
+cryptography,2020-10,17
+cryptography,2020-11,12
+cryptography,2020-12,14
+cryptography,2021-01,13
+cryptography,2021-02,19
+cryptography,2021-03,15
+cryptography,2021-04,18
+cryptography,2021-05,16
+cryptography,2021-06,14
+cryptography,2021-07,13
+cryptography,2021-08,14
+cryptography,2021-09,19
+cryptography,2021-10,15
+writing music,2019-01,32
+writing music,2019-02,38
+writing music,2019-03,35
+writing music,2019-04,30
+writing music,2019-05,30
+writing music,2019-06,20
+writing music,2019-07,19
+writing music,2019-08,30
+writing music,2019-09,42
+writing music,2019-10,40
+writing music,2019-11,38
+writing music,2019-12,29
+writing music,2020-01,32
+writing music,2020-02,36
+writing music,2020-03,30
+writing music,2020-04,37
+writing music,2020-05,30
+writing music,2020-06,22
+writing music,2020-07,22
+writing music,2020-08,34
+writing music,2020-09,40
+writing music,2020-10,32
+writing music,2020-11,29
+writing music,2020-12,23
+writing music,2021-01,22
+writing music,2021-02,25
+writing music,2021-03,25
+writing music,2021-04,23
+writing music,2021-05,19
+writing music,2021-06,17
+writing music,2021-07,14
+writing music,2021-08,17
+writing music,2021-09,25
+writing music,2021-10,26
+wine tasting,2019-01,65
+wine tasting,2019-02,68
+wine tasting,2019-03,72
+wine tasting,2019-04,68
+wine tasting,2019-05,70
+wine tasting,2019-06,79
+wine tasting,2019-07,77
+wine tasting,2019-08,76
+wine tasting,2019-09,71
+wine tasting,2019-10,67
+wine tasting,2019-11,62
+wine tasting,2019-12,61
+wine tasting,2020-01,65
+wine tasting,2020-02,70
+wine tasting,2020-03,38
+wine tasting,2020-04,26
+wine tasting,2020-05,35
+wine tasting,2020-06,51
+wine tasting,2020-07,54
+wine tasting,2020-08,67
+wine tasting,2020-09,64
+wine tasting,2020-10,69
+wine tasting,2020-11,54
+wine tasting,2020-12,49
+wine tasting,2021-01,45
+wine tasting,2021-02,60
+wine tasting,2021-03,63
+wine tasting,2021-04,70
+wine tasting,2021-05,76
+wine tasting,2021-06,69
+wine tasting,2021-07,74
+wine tasting,2021-08,70
+wine tasting,2021-09,75
+wine tasting,2021-10,80
+mazes,2019-01,8
+mazes,2019-02,7
+mazes,2019-03,6
+mazes,2019-04,7
+mazes,2019-05,7
+mazes,2019-06,4
+mazes,2019-07,5
+mazes,2019-08,7
+mazes,2019-09,18
+mazes,2019-10,35
+mazes,2019-11,8
+mazes,2019-12,4
+mazes,2020-01,5
+mazes,2020-02,5
+mazes,2020-03,6
+mazes,2020-04,7
+mazes,2020-05,5
+mazes,2020-06,4
+mazes,2020-07,4
+mazes,2020-08,5
+mazes,2020-09,14
+mazes,2020-10,31
+mazes,2020-11,4
+mazes,2020-12,4
+mazes,2021-01,4
+mazes,2021-02,4
+mazes,2021-03,5
+mazes,2021-04,4
+mazes,2021-05,4
+mazes,2021-06,5
+mazes,2021-07,5
+mazes,2021-08,5
+mazes,2021-09,16
+mazes,2021-10,30
+gold prospecting,2019-01,15
+gold prospecting,2019-02,17
+gold prospecting,2019-03,11
+gold prospecting,2019-04,18
+gold prospecting,2019-05,10
+gold prospecting,2019-06,18
+gold prospecting,2019-07,15
+gold prospecting,2019-08,16
+gold prospecting,2019-09,11
+gold prospecting,2019-10,7
+gold prospecting,2019-11,8
+gold prospecting,2019-12,10
+gold prospecting,2020-01,12
+gold prospecting,2020-02,13
+gold prospecting,2020-03,11
+gold prospecting,2020-04,11
+gold prospecting,2020-05,13
+gold prospecting,2020-06,12
+gold prospecting,2020-07,14
+gold prospecting,2020-08,15
+gold prospecting,2020-09,8
+gold prospecting,2020-10,10
+gold prospecting,2020-11,13
+gold prospecting,2020-12,15
+gold prospecting,2021-01,12
+gold prospecting,2021-02,15
+gold prospecting,2021-03,10
+gold prospecting,2021-04,14
+gold prospecting,2021-05,9
+gold prospecting,2021-06,11
+gold prospecting,2021-07,10
+gold prospecting,2021-08,12
+gold prospecting,2021-09,9
+gold prospecting,2021-10,12
+english,2019-01,81
+english,2019-02,81
+english,2019-03,82
+english,2019-04,82
+english,2019-05,87
+english,2019-06,73
+english,2019-07,70
+english,2019-08,73
+english,2019-09,84
+english,2019-10,89
+english,2019-11,82
+english,2019-12,78
+english,2020-01,84
+english,2020-02,87
+english,2020-03,88
+english,2020-04,97
+english,2020-05,89
+english,2020-06,79
+english,2020-07,77
+english,2020-08,81
+english,2020-09,100
+english,2020-10,93
+english,2020-11,80
+english,2020-12,82
+english,2021-01,85
+english,2021-02,91
+english,2021-03,87
+english,2021-04,88
+english,2021-05,88
+english,2021-06,80
+english,2021-07,80
+english,2021-08,80
+english,2021-09,86
+english,2021-10,85
+skimboarding,2019-01,1
+skimboarding,2019-02,2
+skimboarding,2019-03,5
+skimboarding,2019-04,4
+skimboarding,2019-05,2
+skimboarding,2019-06,7
+skimboarding,2019-07,8
+skimboarding,2019-08,9
+skimboarding,2019-09,5
+skimboarding,2019-10,3
+skimboarding,2019-11,2
+skimboarding,2019-12,3
+skimboarding,2020-01,4
+skimboarding,2020-02,3
+skimboarding,2020-03,4
+skimboarding,2020-04,2
+skimboarding,2020-05,7
+skimboarding,2020-06,13
+skimboarding,2020-07,10
+skimboarding,2020-08,13
+skimboarding,2020-09,6
+skimboarding,2020-10,4
+skimboarding,2020-11,7
+skimboarding,2020-12,3
+skimboarding,2021-01,3
+skimboarding,2021-02,2
+skimboarding,2021-03,7
+skimboarding,2021-04,3
+skimboarding,2021-05,4
+skimboarding,2021-06,12
+skimboarding,2021-07,8
+skimboarding,2021-08,6
+skimboarding,2021-09,5
+skimboarding,2021-10,3
+dowsing,2019-01,17
+dowsing,2019-02,19
+dowsing,2019-03,16
+dowsing,2019-04,16
+dowsing,2019-05,20
+dowsing,2019-06,18
+dowsing,2019-07,20
+dowsing,2019-08,25
+dowsing,2019-09,24
+dowsing,2019-10,20
+dowsing,2019-11,18
+dowsing,2019-12,18
+dowsing,2020-01,18
+dowsing,2020-02,23
+dowsing,2020-03,19
+dowsing,2020-04,21
+dowsing,2020-05,18
+dowsing,2020-06,32
+dowsing,2020-07,26
+dowsing,2020-08,29
+dowsing,2020-09,25
+dowsing,2020-10,19
+dowsing,2020-11,17
+dowsing,2020-12,23
+dowsing,2021-01,25
+dowsing,2021-02,21
+dowsing,2021-03,21
+dowsing,2021-04,31
+dowsing,2021-05,28
+dowsing,2021-06,27
+dowsing,2021-07,30
+dowsing,2021-08,35
+dowsing,2021-09,21
+dowsing,2021-10,32
+pilates,2019-01,39
+pilates,2019-02,36
+pilates,2019-03,35
+pilates,2019-04,34
+pilates,2019-05,35
+pilates,2019-06,35
+pilates,2019-07,36
+pilates,2019-08,35
+pilates,2019-09,35
+pilates,2019-10,33
+pilates,2019-11,33
+pilates,2019-12,32
+pilates,2020-01,40
+pilates,2020-02,37
+pilates,2020-03,31
+pilates,2020-04,26
+pilates,2020-05,25
+pilates,2020-06,27
+pilates,2020-07,26
+pilates,2020-08,25
+pilates,2020-09,27
+pilates,2020-10,25
+pilates,2020-11,23
+pilates,2020-12,23
+pilates,2021-01,31
+pilates,2021-02,31
+pilates,2021-03,30
+pilates,2021-04,32
+pilates,2021-05,34
+pilates,2021-06,34
+pilates,2021-07,35
+pilates,2021-08,33
+pilates,2021-09,33
+pilates,2021-10,33
+couch surfing,2019-01,9
+couch surfing,2019-02,11
+couch surfing,2019-03,10
+couch surfing,2019-04,11
+couch surfing,2019-05,14
+couch surfing,2019-06,11
+couch surfing,2019-07,9
+couch surfing,2019-08,13
+couch surfing,2019-09,7
+couch surfing,2019-10,7
+couch surfing,2019-11,14
+couch surfing,2019-12,7
+couch surfing,2020-01,6
+couch surfing,2020-02,9
+couch surfing,2020-03,9
+couch surfing,2020-04,4
+couch surfing,2020-05,5
+couch surfing,2020-06,8
+couch surfing,2020-07,6
+couch surfing,2020-08,7
+couch surfing,2020-09,5
+couch surfing,2020-10,6
+couch surfing,2020-11,3
+couch surfing,2020-12,5
+couch surfing,2021-01,10
+couch surfing,2021-02,5
+couch surfing,2021-03,5
+couch surfing,2021-04,7
+couch surfing,2021-05,6
+couch surfing,2021-06,7
+couch surfing,2021-07,6
+couch surfing,2021-08,7
+couch surfing,2021-09,4
+couch surfing,2021-10,7
+urban exploration,2019-01,17
+urban exploration,2019-02,14
+urban exploration,2019-03,17
+urban exploration,2019-04,17
+urban exploration,2019-05,13
+urban exploration,2019-06,11
+urban exploration,2019-07,11
+urban exploration,2019-08,13
+urban exploration,2019-09,17
+urban exploration,2019-10,12
+urban exploration,2019-11,12
+urban exploration,2019-12,10
+urban exploration,2020-01,9
+urban exploration,2020-02,12
+urban exploration,2020-03,16
+urban exploration,2020-04,12
+urban exploration,2020-05,15
+urban exploration,2020-06,7
+urban exploration,2020-07,12
+urban exploration,2020-08,16
+urban exploration,2020-09,14
+urban exploration,2020-10,12
+urban exploration,2020-11,13
+urban exploration,2020-12,10
+urban exploration,2021-01,10
+urban exploration,2021-02,8
+urban exploration,2021-03,9
+urban exploration,2021-04,9
+urban exploration,2021-05,8
+urban exploration,2021-06,12
+urban exploration,2021-07,9
+urban exploration,2021-08,8
+urban exploration,2021-09,10
+urban exploration,2021-10,11
+slot car,2019-01,14
+slot car,2019-02,15
+slot car,2019-03,14
+slot car,2019-04,11
+slot car,2019-05,10
+slot car,2019-06,11
+slot car,2019-07,11
+slot car,2019-08,9
+slot car,2019-09,11
+slot car,2019-10,13
+slot car,2019-11,18
+slot car,2019-12,25
+slot car,2020-01,18
+slot car,2020-02,15
+slot car,2020-03,14
+slot car,2020-04,12
+slot car,2020-05,11
+slot car,2020-06,11
+slot car,2020-07,13
+slot car,2020-08,12
+slot car,2020-09,10
+slot car,2020-10,15
+slot car,2020-11,19
+slot car,2020-12,25
+slot car,2021-01,18
+slot car,2021-02,16
+slot car,2021-03,14
+slot car,2021-04,13
+slot car,2021-05,12
+slot car,2021-06,10
+slot car,2021-07,10
+slot car,2021-08,11
+slot car,2021-09,11
+slot car,2021-10,11
+watching television,2019-01,13
+watching television,2019-02,21
+watching television,2019-03,20
+watching television,2019-04,20
+watching television,2019-05,18
+watching television,2019-06,8
+watching television,2019-07,6
+watching television,2019-08,14
+watching television,2019-09,15
+watching television,2019-10,18
+watching television,2019-11,26
+watching television,2019-12,18
+watching television,2020-01,21
+watching television,2020-02,26
+watching television,2020-03,16
+watching television,2020-04,27
+watching television,2020-05,24
+watching television,2020-06,14
+watching television,2020-07,10
+watching television,2020-08,8
+watching television,2020-09,28
+watching television,2020-10,19
+watching television,2020-11,19
+watching television,2020-12,17
+watching television,2021-01,19
+watching television,2021-02,22
+watching television,2021-03,26
+watching television,2021-04,20
+watching television,2021-05,20
+watching television,2021-06,20
+watching television,2021-07,9
+watching television,2021-08,7
+watching television,2021-09,17
+watching television,2021-10,46
+car tuning,2019-01,28
+car tuning,2019-02,31
+car tuning,2019-03,33
+car tuning,2019-04,41
+car tuning,2019-05,32
+car tuning,2019-06,30
+car tuning,2019-07,24
+car tuning,2019-08,38
+car tuning,2019-09,31
+car tuning,2019-10,29
+car tuning,2019-11,26
+car tuning,2019-12,25
+car tuning,2020-01,31
+car tuning,2020-02,40
+car tuning,2020-03,42
+car tuning,2020-04,34
+car tuning,2020-05,32
+car tuning,2020-06,41
+car tuning,2020-07,32
+car tuning,2020-08,38
+car tuning,2020-09,39
+car tuning,2020-10,42
+car tuning,2020-11,38
+car tuning,2020-12,36
+car tuning,2021-01,30
+car tuning,2021-02,33
+car tuning,2021-03,42
+car tuning,2021-04,49
+car tuning,2021-05,33
+car tuning,2021-06,34
+car tuning,2021-07,35
+car tuning,2021-08,31
+car tuning,2021-09,35
+car tuning,2021-10,24
+tapestry,2019-01,65
+tapestry,2019-02,61
+tapestry,2019-03,60
+tapestry,2019-04,57
+tapestry,2019-05,53
+tapestry,2019-06,65
+tapestry,2019-07,73
+tapestry,2019-08,86
+tapestry,2019-09,72
+tapestry,2019-10,57
+tapestry,2019-11,67
+tapestry,2019-12,67
+tapestry,2020-01,63
+tapestry,2020-02,61
+tapestry,2020-03,66
+tapestry,2020-04,98
+tapestry,2020-05,90
+tapestry,2020-06,77
+tapestry,2020-07,85
+tapestry,2020-08,100
+tapestry,2020-09,81
+tapestry,2020-10,70
+tapestry,2020-11,74
+tapestry,2020-12,83
+tapestry,2021-01,79
+tapestry,2021-02,79
+tapestry,2021-03,69
+tapestry,2021-04,65
+tapestry,2021-05,60
+tapestry,2021-06,60
+tapestry,2021-07,63
+tapestry,2021-08,81
+tapestry,2021-09,68
+tapestry,2021-10,57
+medical science,2019-01,46
+medical science,2019-02,52
+medical science,2019-03,49
+medical science,2019-04,53
+medical science,2019-05,54
+medical science,2019-06,44
+medical science,2019-07,43
+medical science,2019-08,45
+medical science,2019-09,51
+medical science,2019-10,55
+medical science,2019-11,47
+medical science,2019-12,45
+medical science,2020-01,55
+medical science,2020-02,49
+medical science,2020-03,45
+medical science,2020-04,47
+medical science,2020-05,50
+medical science,2020-06,43
+medical science,2020-07,45
+medical science,2020-08,50
+medical science,2020-09,51
+medical science,2020-10,46
+medical science,2020-11,38
+medical science,2020-12,39
+medical science,2021-01,41
+medical science,2021-02,39
+medical science,2021-03,40
+medical science,2021-04,45
+medical science,2021-05,46
+medical science,2021-06,35
+medical science,2021-07,37
+medical science,2021-08,41
+medical science,2021-09,47
+medical science,2021-10,46
+go,2019-01,36
+go,2019-02,35
+go,2019-03,36
+go,2019-04,35
+go,2019-05,35
+go,2019-06,36
+go,2019-07,38
+go,2019-08,36
+go,2019-09,35
+go,2019-10,33
+go,2019-11,34
+go,2019-12,33
+go,2020-01,34
+go,2020-02,36
+go,2020-03,37
+go,2020-04,39
+go,2020-05,39
+go,2020-06,36
+go,2020-07,39
+go,2020-08,38
+go,2020-09,35
+go,2020-10,35
+go,2020-11,34
+go,2020-12,35
+go,2021-01,36
+go,2021-02,37
+go,2021-03,38
+go,2021-04,35
+go,2021-05,37
+go,2021-06,36
+go,2021-07,37
+go,2021-08,36
+go,2021-09,35
+go,2021-10,35
